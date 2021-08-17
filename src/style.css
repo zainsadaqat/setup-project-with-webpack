@@ -1,0 +1,11 @@
+@font-face {
+  font-family: myFont;
+  src: url('./cocogoose.woff') format('woff');
+}
+
+.hello {
+  color: lightblue;
+  font-size: 2em;
+  background: url('./landing-page.png');
+  font-family: myFont;
+}
